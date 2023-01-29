@@ -7,3 +7,6 @@ RegisterCommand('Discord', function()
     args = {Title}
 })
 end)
+
+
+print("^1 Prosper made this Script C: -Prosper#0725")
